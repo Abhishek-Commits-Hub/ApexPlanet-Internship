@@ -1,6 +1,6 @@
 # ApexPlanet Internship — Web Development
 
-A collection of web development projects completed during the 45-day internship program at ApexPlanet Software Pvt. Ltd.
+A collection of web development projects developed throughout my 45-day internship at ApexPlanet Software Pvt. Ltd.
 
 ## Technologies
 
